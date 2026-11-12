@@ -16,8 +16,8 @@ class _OrderTrackingScreenState extends State<OrderTrackingScreen> {
   static const Color cyan = Color(0xFF42D4EF);
 
   // ASSET GAMBAR
-  static const String aquaImage = 'assets/images/Aqua 19L.png';
-  static const String profileImage = 'assets/images/Profile.png';
+  static const String aquaImage = 'assets/images/aqua_19l.png';
+  static const String profileImage = 'assets/images/profile.png';
 
   int selectedMenu = 0;
   double zoom = 1.0;
